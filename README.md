@@ -1,0 +1,2 @@
+# pddtorresmartinez
+patrones de diseño
